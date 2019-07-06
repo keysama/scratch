@@ -1,2 +1,2 @@
-# simpleProject
-即开即用的简单vue cli脚手架
+# scratch
+社区网站
